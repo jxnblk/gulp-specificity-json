@@ -1,0 +1,17 @@
+
+body { color: blue }
+
+.red { color: red }
+
+#green { color: green }
+
+body[data-purple] { color: purple }
+
+body.orange { color: orange }
+
+body#yellow { color: yellow }
+
+body .red { color: red }
+
+body #green { color: green }
+

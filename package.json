@@ -1,0 +1,15 @@
+{
+  "name": "gulp-specificity-graph",
+  "version": "0.0.1",
+  "description": "Gulp plugin to convert CSS file to a Specificity Graph JSON file",
+  "main": "index.js",
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "devDependencies": {
+    "css": "^2.1.0",
+    "gulp": "^3.8.9",
+    "gulp-rename": "^1.2.0",
+    "specificity": "^0.1.4",
+    "through2": "^0.6.3"
+  }
+}
